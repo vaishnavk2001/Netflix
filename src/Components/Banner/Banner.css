@@ -1,7 +1,7 @@
 .banner{
     background-image: url('https://wallpaperaccess.com/full/2703652.png');
     background-size: cover;
-    height: 500px;
+    height: 440px;
     color: white;
 }
 .content{
@@ -41,7 +41,7 @@
     max-width: 380px;
 }
 .fade_bottom{
-    margin-top: 19vh;
+    margin-top: 9.5vh;
     height: 7.6rem;
     background-image: linear-gradient(180deg,transparent,rgba(37,37,37,.61),#111);
 }
