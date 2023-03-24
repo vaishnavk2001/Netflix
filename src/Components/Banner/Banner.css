@@ -1,5 +1,4 @@
 .banner{
-    background-image: url('https://wallpaperaccess.com/full/2703652.png');
     background-size: cover;
     height: 440px;
     color: white;
@@ -7,7 +6,7 @@
 .content{
     padding-top: 10vh;
     height: 190px;
-    margin-left: 2vw;
+    margin-left: 1vw;
 }
 .title{
     font-size: 3rem;
@@ -38,7 +37,7 @@
     padding-top: 1rem;
     height: 80px;
     font-size: 1rem;
-    max-width: 380px;
+    max-width: 560px;
 }
 .fade_bottom{
     margin-top: 9.5vh;
